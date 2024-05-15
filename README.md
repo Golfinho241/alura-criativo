@@ -1,4 +1,3 @@
-# alura-criativo
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,12 +7,20 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Vai ser uma imagem aqui</h1>
-    
+    <header>
+        <h1>Vai ser uma imagem aqui</h1>
+        <ul>
+          <li>Estuda</li>
+          <li>Estudante</li>
+        </ul> 
+    </header>
+   
 </body>
 </html>
 
 
-body{
+
+header{
     background-color: darkgray;
+    color: white;
 }
