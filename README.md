@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <img class="cabecalho-imagem" src="/tmp/guest-augn5n/Downloads/brasao_cpmpr270.png" alt="logo do colegio civico militar">
         <ul>
           <li>Estuda</li>
           <li>Estudante</li>
@@ -20,7 +20,13 @@
 
 
 
+
 header{
-    background-color: darkgray;
+    background-color: #030253;
     color: white;
+}
+
+.cabecalho-imagem{
+    width: 5%;
+
 }
